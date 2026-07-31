@@ -209,6 +209,3 @@ Then open **http://127.0.0.1:5000** in your browser to use the predictor.
 
 ```
 
-<p align="center">
-  <i>Built with ❤️ using Python, Scikit-learn & Flask</i>
-</p>

@@ -1,14 +1,14 @@
 # 🧠 Brain Tumor Classification using CNN — MRI Images
 
-**Name:** Akshat Garg  
+Name: Kartik Tyagi
 
-**Registration Number:** 23BCE10641
+Registration Number: 23BAI10360
 
-**Application Number:** IN26011052
+Application Number: IN26010566
 
-**Batch Number:** 1A
+Batch Number: 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+Email ID: kartik.23bai10360@vitbhopal.ac.in
 
 A deep learning project that classifies brain MRI scans into **4 categories** — Glioma, Meningioma, No Tumor, and Pituitary — using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **90%+ accuracy**.
 

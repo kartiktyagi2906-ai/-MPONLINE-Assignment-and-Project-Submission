@@ -177,16 +177,6 @@ jupyter notebook "CIFAR-10 AKSHAT GARG 23BCE10641.ipynb"
 
 ---
 
-## 📁 Project Structure
-
-```
-CIFAR 10/
-├── CIFAR-10 AKSHAT GARG 23BCE10641.ipynb   # Main notebook (full pipeline)
-└── README.md                                # Project documentation
-```
-
----
-
 <p align="center">
   <i>Built with ❤️ using Python & TensorFlow</i>
 </p>

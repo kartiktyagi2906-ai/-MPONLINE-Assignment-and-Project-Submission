@@ -1,14 +1,14 @@
 # 💰 Adult Census Income Classification
 
-**Name:** Akshat Garg  
+Name: Kartik Tyagi
 
-**Registration Number:** 23BCE10641
+Registration Number: 23BAI10360
 
-**Application Number:** IN26011052
+Application Number: IN26010566
 
-**Batch Number:** 1A
+Batch Number: 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+Email ID: kartik.23bai10360@vitbhopal.ac.in
 
 A machine learning project that predicts whether an individual's annual income exceeds **$50K** based on demographic and employment features from the **Adult Census Income Dataset** (Kaggle).
 

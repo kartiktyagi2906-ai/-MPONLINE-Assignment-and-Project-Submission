@@ -155,15 +155,6 @@ jupyter notebook "Assignment Akshat Garg.ipynb"
 
 > **Note:** The notebook automatically downloads the dataset using `kagglehub`. Ensure your Kaggle API credentials are configured (`~/.kaggle/kaggle.json`).
 
----
-
-## 📁 Project Structure
-
-```
-Adult Census Income Classification/
-├── Assignment Akshat Garg.ipynb   # Main notebook with full pipeline
-├── README.md                      # Project documentation (this file)
-└── anaconda_projects/             # Anaconda project files
 
 ---
 
